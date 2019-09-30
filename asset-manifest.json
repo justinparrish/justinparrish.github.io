@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/justinparrish.github.io/static/css/main.c295e889.chunk.css",
-    "main.js": "/justinparrish.github.io/static/js/main.a5d0a88f.chunk.js",
-    "main.js.map": "/justinparrish.github.io/static/js/main.a5d0a88f.chunk.js.map",
-    "runtime-main.js": "/justinparrish.github.io/static/js/runtime-main.ab9aedc9.js",
-    "runtime-main.js.map": "/justinparrish.github.io/static/js/runtime-main.ab9aedc9.js.map",
-    "static/css/2.04aae6c4.chunk.css": "/justinparrish.github.io/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.4564a022.chunk.js": "/justinparrish.github.io/static/js/2.4564a022.chunk.js",
-    "static/js/2.4564a022.chunk.js.map": "/justinparrish.github.io/static/js/2.4564a022.chunk.js.map",
-    "index.html": "/justinparrish.github.io/index.html",
-    "precache-manifest.63ec4e3ede2246bbfdaad227355ca4ba.js": "/justinparrish.github.io/precache-manifest.63ec4e3ede2246bbfdaad227355ca4ba.js",
-    "service-worker.js": "/justinparrish.github.io/service-worker.js",
-    "static/css/2.04aae6c4.chunk.css.map": "/justinparrish.github.io/static/css/2.04aae6c4.chunk.css.map",
-    "static/css/main.c295e889.chunk.css.map": "/justinparrish.github.io/static/css/main.c295e889.chunk.css.map"
+    "main.css": "/portfolio/static/css/main.7f6aedb2.chunk.css",
+    "main.js": "/portfolio/static/js/main.2e476adb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2e476adb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.36963274.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.36963274.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.485146a8.chunk.js": "/portfolio/static/js/2.485146a8.chunk.js",
+    "static/js/2.485146a8.chunk.js.map": "/portfolio/static/js/2.485146a8.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.1d1037687f0ded8eb676813db4d4022c.js": "/portfolio/precache-manifest.1d1037687f0ded8eb676813db4d4022c.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.7f6aedb2.chunk.css.map": "/portfolio/static/css/main.7f6aedb2.chunk.css.map"
   }
 }
